@@ -9,6 +9,7 @@ require 'includes/header.php';
             <span class="eyebrow">Kontak</span> 
             <h1>Kirim pesan</h1> 
             <p class="lead">Form ini mendemonstrasikan proses INSERT ke database dengan prepared statement.</p> 
+            <p>HALOOOOOOOOO</p>
             <?php if ($success): ?> 
                 <div class="alert alert-success">Pesan berhasil disimpan ke database.</div> 
             <?php endif; ?> 
